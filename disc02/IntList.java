@@ -101,4 +101,16 @@ public class IntList {
 }
 
 
+public class QuikMaths {
+    public static void mulitplyBy3(int[] A) {
+       for (int x: A) {
+          x = x * 3;
+       }
+    }
 
+    public static void main(String[] args){
+        int[] arr;
+        arr = new int[]{2,3,3,4};
+        mulitplyBy3(arr);
+    }
+}
