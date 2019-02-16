@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f5b856d-ca7a-4774-b00e-3b07a4f8a687" name="Default Changelist" comment="" />
+    <list default="true" id="3d05740f-d5e0-4121-b659-49f826832c2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lec7/.idea/libraries/javalib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lec7/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/disc03/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/disc03/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/disc03/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/disc03/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/disc03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/disc03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/disc03/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/disc03/ArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/disc03/SLList$IntNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/disc03/SLList$IntNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/disc03/SLList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/disc03/SLList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/disc03/SLListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/disc03/SLListTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,21 +25,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SLList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="72" selection-start-line="72" selection-end-line="86" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SLListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1560">
-              <caret line="104" selection-start-line="104" selection-end-line="104" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -32,20 +38,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="314">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
-                <element signature="e#0#192#0" expanded="true" />
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="150">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,16 +70,14 @@
       <list>
         <option value="$PROJECT_DIR$/ArrayTest.java" />
         <option value="$PROJECT_DIR$/Array.java" />
-        <option value="$PROJECT_DIR$/SLList.java" />
-        <option value="$PROJECT_DIR$/SLListTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
-    <option name="y" value="23" />
-    <option name="width" value="1346" />
-    <option name="height" value="677" />
+    <option name="x" value="2573" />
+    <option name="y" value="383" />
+    <option name="width" value="1898" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -77,7 +85,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -90,10 +97,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550242811382" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550299347193" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -110,102 +118,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SLListTest.testReverseRecursive">
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SLListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ArrayTest.testReplicate">
+    <configuration name="ArrayTest.testArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="disc03" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SLListTest" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SLListTest.testAnotherIterativeReverse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="disc03" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SLListTest" />
-      <option name="METHOD_NAME" value="testAnotherIterativeReverse" />
+      <option name="MAIN_CLASS_NAME" value="ArrayTest" />
+      <option name="METHOD_NAME" value="testArray" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SLListTest.testReverse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="disc03" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SLListTest" />
+      <option name="MAIN_CLASS_NAME" value="ArrayTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.testReplicate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="disc03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayTest" />
+      <option name="METHOD_NAME" value="testReplicate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.testReverse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="disc03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayTest" />
       <option name="METHOD_NAME" value="testReverse" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SLListTest.testReverse1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="disc03" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SLListTest" />
-      <option name="METHOD_NAME" value="testReverse1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SLListTest.testReverseRecursive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="disc03" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SLListTest" />
-      <option name="METHOD_NAME" value="testReverseRecursive" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SLListTest.testReverseRecursive" />
-        <item itemvalue="JUnit.SLListTest.testAnotherIterativeReverse" />
-        <item itemvalue="JUnit.SLListTest.testReverse1" />
-        <item itemvalue="JUnit.SLListTest.testReverse" />
-        <item itemvalue="JUnit.SLListTest" />
+        <item itemvalue="JUnit.ArrayTest.testReplicate" />
+        <item itemvalue="JUnit.ArrayTest.testReverse" />
+        <item itemvalue="JUnit.ArrayTest.testInsert" />
+        <item itemvalue="JUnit.ArrayTest.testArray" />
       </list>
     </recent_temporary>
   </component>
@@ -214,134 +173,99 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2f5b856d-ca7a-4774-b00e-3b07a4f8a687" name="Default Changelist" comment="" />
-      <created>1549175226041</created>
+      <changelist id="3d05740f-d5e0-4121-b659-49f826832c2d" name="Default Changelist" comment="" />
+      <created>1550244753697</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549175226041</updated>
+      <updated>1550244753697</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SLListTest_testAnotherIterativeReverse - 2019.02.15 at 22h 07m 42s.xml">
-      <configuration name="SLListTest.testAnotherIterativeReverse" configurationId="JUnit" />
+    <history-entry file="ArrayTest_testInsert - 2019.02.16 at 13h 48m 05s.xml">
+      <configuration name="ArrayTest.testInsert" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SLListTest_testAnotherIterativeReverse - 2019.02.15 at 22h 08m 02s.xml">
-      <configuration name="SLListTest.testAnotherIterativeReverse" configurationId="JUnit" />
+    <history-entry file="ArrayTest_testInsert - 2019.02.16 at 14h 04m 46s.xml">
+      <configuration name="ArrayTest.testInsert" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SLListTest_testAnotherIterativeReverse - 2019.02.15 at 22h 12m 15s.xml">
-      <configuration name="SLListTest.testAnotherIterativeReverse" configurationId="JUnit" />
+    <history-entry file="ArrayTest_testInsert - 2019.02.16 at 14h 05m 10s.xml">
+      <configuration name="ArrayTest.testInsert" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SLListTest_testAnotherIterativeReverse - 2019.02.15 at 22h 12m 44s.xml">
-      <configuration name="SLListTest.testAnotherIterativeReverse" configurationId="JUnit" />
+    <history-entry file="ArrayTest_testInsert - 2019.02.16 at 14h 06m 15s.xml">
+      <configuration name="ArrayTest.testInsert" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SLListTest_testAnotherIterativeReverse - 2019.02.15 at 22h 13m 57s.xml">
-      <configuration name="SLListTest.testAnotherIterativeReverse" configurationId="JUnit" />
+    <history-entry file="ArrayTest_testInsert - 2019.02.16 at 14h 06m 17s.xml">
+      <configuration name="ArrayTest.testInsert" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SLListTest_testAnotherIterativeReverse - 2019.02.15 at 22h 29m 04s.xml">
-      <configuration name="SLListTest.testAnotherIterativeReverse" configurationId="JUnit" />
+    <history-entry file="ArrayTest_testReverse - 2019.02.16 at 14h 20m 12s.xml">
+      <configuration name="ArrayTest.testReverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SLListTest_testAnotherIterativeReverse - 2019.02.15 at 22h 29m 48s.xml">
-      <configuration name="SLListTest.testAnotherIterativeReverse" configurationId="JUnit" />
+    <history-entry file="ArrayTest_testReplicate - 2019.02.16 at 14h 34m 49s.xml">
+      <configuration name="ArrayTest.testReplicate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SLListTest_testReverseRecursive - 2019.02.15 at 22h 49m 52s.xml">
-      <configuration name="SLListTest.testReverseRecursive" configurationId="JUnit" />
+    <history-entry file="ArrayTest_testReplicate - 2019.02.16 at 14h 38m 52s.xml">
+      <configuration name="ArrayTest.testReplicate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SLListTest_testAnotherIterativeReverse - 2019.02.15 at 22h 50m 03s.xml">
-      <configuration name="SLListTest.testAnotherIterativeReverse" configurationId="JUnit" />
+    <history-entry file="ArrayTest_testReplicate - 2019.02.16 at 14h 38m 55s.xml">
+      <configuration name="ArrayTest.testReplicate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SLListTest_testReverseRecursive - 2019.02.15 at 23h 00m 09s.xml">
-      <configuration name="SLListTest.testReverseRecursive" configurationId="JUnit" />
+    <history-entry file="ArrayTest_testReplicate - 2019.02.16 at 14h 42m 08s.xml">
+      <configuration name="ArrayTest.testReplicate" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="23" width="1346" height="677" extended-state="0" />
+    <frame x="2573" y="383" width="1898" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2576687" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32991454" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32991454" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Style Checker" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.3320552" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32953367" />
+      <window_info anchor="bottom" id="Style Checker" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25383437" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32991454" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32991454" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.5675214" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Style Checker" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" visible="true" weight="0.3320552" />
-    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/SLListTest.java</url>
+          <url>file://$PROJECT_DIR$/ArrayTest.java</url>
           <line>8</line>
           <properties />
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/SLListTest.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/SLListTest.java</url>
-          <line>64</line>
+          <url>file://$PROJECT_DIR$/ArrayTest.java</url>
+          <line>7</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/SLListTest.java</url>
-          <line>103</line>
+          <url>file://$PROJECT_DIR$/ArrayTest.java</url>
+          <line>24</line>
           <properties />
-          <option name="timeStamp" value="13" />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -349,32 +273,29 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SLList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="72" selection-start-line="72" selection-end-line="86" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SLListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="314">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding>
-            <element signature="e#0#192#0" expanded="true" />
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="150">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -418,7 +339,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>11</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -443,7 +364,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>11</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
