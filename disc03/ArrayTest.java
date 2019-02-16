@@ -26,4 +26,16 @@ public class ArrayTest{
         int[] exp = new int[]{1, 2, 2, 3, 3, 3};
         assertArrayEquals(exp, replicate);
     }
+
+    @Test
+    public void testFlatten(){
+        int[][] arr = new int[3][];
+        arr[0] = new int[]{1, 2, 3};
+        arr[1] = new int[]{};
+        arr[2] = new int[]{7, 8};
+        int[] result = Array.flatten(arr);
+        int[] exp = new int[]{1, 2, 3, 7, 8};
+        assertArrayEquals(exp, result);
+
+    }
 }

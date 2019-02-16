@@ -45,4 +45,24 @@ public class Array{
         return newArr;
     }
 
+    public static int[] flatten(int[][] arr){
+        int totalLength = 0;
+
+        for(int i = 0; i < arr.length; i++){
+            totalLength += arr[i].length;
+        }
+
+        int[] result = new int[totalLength];
+        int counter = 0;
+
+        for(int i = 0; i < arr.length; i++){
+            for(int j = 0; j < arr[i].length; j++){
+                result[counter] = arr[i][j];
+                counter++;
+            }
+        }
+        return result;
+
+
+    }
 }
