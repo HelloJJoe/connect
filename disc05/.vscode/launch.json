@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Queue",
+            "request": "launch",
+            "mainClass": "Queue",
+            "projectName": "disc05_67c2afa9"
+        }
+    ]
+}
